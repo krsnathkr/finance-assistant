@@ -165,10 +165,10 @@ def parse_financial_data_from_csv(df):
 
 def main():
     st.set_page_config(layout="wide")
-    st.title("MoneyMentor :male-teacher:")
-    st.write("Introducing MoneyMentor, the ultimate financial sidekick! :men-with-bunny-ears-partying:")
+    st.title("PennyPlanner :coin:")
+    st.write("Introducing PennyPlanner, the ultimate financial sidekick! :men-with-bunny-ears-partying:")
     st.write(" Upload your bank statements and let the fun begin. Get a detailed breakdown of your income and expenses —because knowing where your money goes shouldn't be a mystery! Our colorful charts will make you feel like a financial wizard 🧙‍♂️. Want to see your spending habits? We’ve got pie charts that’ll make you hungry for more insights 🥧.")
-    st.write("Curious about where all your coffee money went? Ask our AI assistant and get answers faster than your last impulse buy 🛒. Search through your transactions like a detective 🕵️‍♂️ and keep your finances in check. With MoneyMentor, managing your money is as easy as pie—literally! 🍰")
+    st.write("Curious about where all your coffee money went? Ask our AI assistant and get answers faster than your last impulse buy 🛒. Search through your transactions like a detective 🕵️‍♂️ and keep your finances in check. With PennyPlanner, managing your money is as easy as pie—literally! 🍰")
 
     with st.sidebar:
         st.header("Upload your Bank Statement")

@@ -2,9 +2,9 @@ Sure! Here is an alternative README file for your Streamlit application:
 
 ---
 
-# MoneyMentor: Your Personal Finance Wizard 🧙‍♂️
+# Penny Planner: Your Personal Finance Wizard 🧙‍♂️
 
-Welcome to **MoneyMentor**, your go-to solution for managing and visualizing your finances. With this app, you can upload your bank statements, gain insights into your spending habits, and even get assistance from an AI-powered financial assistant.
+Welcome to **Penny Planner**, your go-to solution for managing and visualizing your finances. With this app, you can upload your bank statements, gain insights into your spending habits, and even get assistance from an AI-powered financial assistant.
 
 ## Getting Started
 
@@ -81,7 +81,7 @@ Welcome to **MoneyMentor**, your go-to solution for managing and visualizing you
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 
-Enjoy managing your finances with MoneyMentor! 🚀
+Enjoy managing your finances with PennyPlanner! 🚀
 
 ---
 
