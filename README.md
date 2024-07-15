@@ -1,7 +1,3 @@
-Sure! Here is an alternative README file for your Streamlit application:
-
----
-
 # Penny Planner: Your Personal Finance Wizard 🧙‍♂️
 
 Welcome to **Penny Planner**, your go-to solution for managing and visualizing your finances. With this app, you can upload your bank statements, gain insights into your spending habits, and even get assistance from an AI-powered financial assistant.
